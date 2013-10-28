@@ -5,7 +5,3 @@ asd
 asd
 test
 testing
-tests
-testss
-testss
-tests
