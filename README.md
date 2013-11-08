@@ -8,7 +8,7 @@ A really great example of a repository
 .
 ..
 .
-.a
+.a.
 A
 a
 .a
