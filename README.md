@@ -19,7 +19,7 @@ aaa
 aaaa
 aa
 aaa
-a
+aaA fourth task #task T-116592 4
 a
 a
 a
