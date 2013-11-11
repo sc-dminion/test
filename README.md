@@ -14,7 +14,7 @@ a
 .a
 .
 .
- A task #task T-116592 5 aa
+ A task #task T-116592 5 aa.
 aaa.
 aaaa
 aaa
