@@ -17,7 +17,7 @@ a
  A task #task T-116592 5 aa
 aaa.
 aaaa
-aa
+aaa
 aaa
 aaA fourth task #task T-116592 4
 a
